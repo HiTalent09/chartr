@@ -1,0 +1,831 @@
+
+0114(NS)UP_DTC
+0118EXT(NS)UP_DTC#['temp_5757', 'Mayur Vihar Ph-III', 'temp_5757', 'Mayur Vihar Ph-III']
+012(NS)UP_DTC
+0131(NS)UP_DTC#['245', 'Jahangir Puri Metro Station', '245', 'Jahangir Puri Metro Station']
+0205(NS)DOWN_DTC#['temp_5135', 'Seelampur Metro Station', '781', 'Seelampur Metro Station']
+0205(NS)UP_DTC#['56', 'Seelampur Metro Station', 'temp_5135', 'Seelampur Metro Station']
+0236(NS)DOWN_DTC
+0236(NS)UP_DTC
+0261(NS)DOWN_DTC#['1750', 'Gagan Cinema', 'temp_4363', 'Gagan Cinema']#['temp_5439', 'Nizamuddin Road Bridge', 'temp_5439', 'Nizamuddin Road Bridge']
+0261(NS)UP_DTC#['447', 'Nizamuddin Road Bridge', 'temp_5439', 'Nizamuddin Road Bridge']
+0405(NS)DOWN_DTC
+0405(NS)UP_DTC#['temp_7174', 'Sunder Nagar', 'temp_7175', 'Sunder Nagar']#['temp_5071', 'Nizamuddin Extension', '1788', 'Nizamuddin Extension']
+0419(NS)DOWN_DTC
+0419(NS)UP_DTC#['temp_7174', 'Sunder Nagar', 'temp_7175', 'Sunder Nagar']
+044(NS)UP_DTC#['temp_7174', 'Sunder Nagar', 'temp_7174', 'Sunder Nagar']#['temp_5071', 'Nizamuddin Extension', '1788', 'Nizamuddin Extension']#['1792', 'Mata Mandir New Friends Colony', 'temp_5701', 'Mata Mandir New Friends Colony']
+0502(NS)DOWN_DTC
+0502(NS)UP_DTC#['temp_5380', 'Prithvi Raj Road Crossing', '1026', 'Prithvi Raj Road Crossing']
+0543A(NS)UP_DTC#['1217', 'APS Colony', 'temp_5538', 'APS Colony']
+0604(NS)DOWN_DTC#['temp_5924', 'Vasant Kunj Terminal', 'temp_5924', 'Vasant Kunj Terminal']
+0604(NS)UP_DTC
+072(NS)UP_DTC#['2520', 'Moti Nagar Market', '1532', 'Moti Nagar Market']#['temp_6092', 'Dholi Piao', 'temp_6093', 'Dholi Piao']#['169', 'Uttam Nagar', '905', 'Uttam Nagar']
+0729(NS)DOWN_DTC
+0729(NS)UP_DTC#['1217', 'APS Colony', 'temp_5538', 'APS Colony']
+0740(NS)DOWN_DTC#['899', 'A-3 Janak Puri', '707', 'A-3 Janak Puri']#['1114', 'Delhi Secretariat', 'temp_4494', 'Delhi Secretariat']
+0740(NS)UP_DTC#['67', 'Anand Vihar ISBT Main Road', '67', 'Anand Vihar ISBT Main Road']#['temp_4494', 'Delhi Secretariat', 'temp_4532', 'Delhi Secretariat']
+0753(NS)DOWN_DTC
+0753(NS)UP_DTC
+0901(NS)DOWN_DTC#['692', 'Rohini Sec 20/21 More', '982', 'Rohini Sec 20/21 More']
+0901(NS)UP_DTC#['692', 'Rohini Sec 20/21 More', '982', 'Rohini Sec 20/21 More']
+0926(NS)DOWN_DTC#['1344', 'Mile Stone / Shiv Shankar Dharam Kanta', '1344', 'Mile Stone / Shiv Shankar Dharam Kanta']
+0926(NS)UP_DTC#['1903', 'Mile Stone / Shiv Shankar Dharam Kanta', '1903', 'Mile Stone / Shiv Shankar Dharam Kanta']
+0929(NS)DOWN_DTC
+0929(NS)UP_DTC
+0943(NS)DOWN_DTC#['1114', 'Delhi Secretariat', 'temp_4494', 'Delhi Secretariat']#['temp_4376', 'Anand Vihar ISBT Main Road', 'temp_4376', 'Anand Vihar ISBT Main Road']
+0943(NS)UP_DTC#['67', 'Anand Vihar ISBT Main Road', '67', 'Anand Vihar ISBT Main Road']#['temp_4494', 'Delhi Secretariat', 'temp_4532', 'Delhi Secretariat']
+0AIRPORTEXP-4(NS)DOWN_DTC
+0AIRPORTEXP-4(NS)UP_DTC#['1217', 'APS Colony', 'temp_5538', 'APS Colony']
+0GL-23(NS)DOWN_DTC#['67', 'Anand Vihar ISBT Main Road', '67', 'Anand Vihar ISBT Main Road']
+0GL-23(NS)UP_DTC
+0OMS(+)(NS)UP_DTC#['1819', 'Dholi Piao', 'temp_6093', 'Dholi Piao']#['2347', 'Meera Bagh', '2347', 'Meera Bagh']
+0OMS(-)(NS)DOWN_DTC#['1750', 'Gagan Cinema', 'temp_4363', 'Gagan Cinema']#['2948', 'Meera Bagh Apartment', '2948', 'Meera Bagh Apartment']#['temp_6092', 'Dholi Piao', 'temp_6093', 'Dholi Piao']
+0TMS(+)(NS)UP_DTC#['temp_5439', 'Nizamuddin Road Bridge', 'temp_5439', 'Nizamuddin Road Bridge']
+0TMS(-)(NS)DOWN_DTC#['temp_5285', 'Gandhi Darshan', '1853', 'Gandhi Darshan']
+100ADOWN_DTC
+100AUP_DTC
+100EXTDOWN_DTC#['3728', 'Faiz Road', '2708', 'Faiz Road']
+100EXTUP_DTC#['2917', 'Model Town II', '2917', 'Model Town II']
+103DOWN_DTC#['300', 'ISBT Nityanand Marg', '300', 'ISBT Nityanand Marg']
+103STLDOWN_DTC
+103STLUP_DTC
+103UP_DTC
+105DOWN_DTC
+105UP_DTC
+106ADOWN_DTC#['1917', 'DSIDC Office Bawana', '1917', 'DSIDC Office Bawana']
+106AUP_DTC#['2365', 'Dhakewala Bawana', '2365', 'Dhakewala Bawana']
+106DOWN_DTC#['1920', 'Sultan Pur Crossing / Poothkhurd', '1920', 'Sultan Pur Crossing / Poothkhurd']#['temp_4752', 'Prehladpur Village', 'temp_4752', 'Prehladpur Village']
+106UP_DTC#['temp_5018', 'DSIDC Office Bawana', 'temp_7999', 'DSIDC Office Bawana']
+107DOWN_DTC#['temp_4336', 'Jahangir Puri Metro Station', 'temp_4336', 'Jahangir Puri Metro Station']
+107UP_DTC#['245', 'Jahangir Puri Metro Station', '245', 'Jahangir Puri Metro Station']
+108DOWN_DTC#['1859', 'DCM Chemical', '1859', 'DCM Chemical']#['temp_8004', 'Nehru Vihar', 'temp_8004', 'Nehru Vihar']
+108UP_DTC#['3111', 'DCM Chemical', '3111', 'DCM Chemical']#['2302', 'F Block Kirti Nagar', '3017', 'F Block Kirti Nagar']
+109DOWN_DTC#['0', 'Narela Terminal', '0', 'Narela Terminal']
+109UP_DTC
+112DOWN_DTC
+112UP_DTC#['2917', 'Model Town II', '2917', 'Model Town II']
+113DOWN_DTC#['1920', 'Sultan Pur Crossing / Poothkhurd', '1920', 'Sultan Pur Crossing / Poothkhurd']#['temp_4752', 'Prehladpur Village', 'temp_4752', 'Prehladpur Village']
+113EXTDOWN_DTC#['1920', 'Sultan Pur Crossing / Poothkhurd', '1920', 'Sultan Pur Crossing / Poothkhurd']#['temp_4752', 'Prehladpur Village', 'temp_4752', 'Prehladpur Village']
+113EXTUP_DTC#['temp_5018', 'DSIDC Office Bawana', 'temp_7999', 'DSIDC Office Bawana']
+113UP_DTC#['1917', 'DSIDC Office Bawana', 'temp_7999', 'DSIDC Office Bawana']
+114ADOWN_DTC
+114AUP_DTC#['414', 'Karala Village', '3633', 'Karala Village']
+114BDOWN_DTC
+114BUP_DTC
+114DOWN_DTC#['414', 'Karala Village', '974', 'Karala Village']
+114EXTDOWN_DTC
+114EXTUP_DTC
+114UP_DTC#['2917', 'Model Town II', '2917', 'Model Town II']
+115DOWN_DTC#['2533', 'Nimri Colony', '2533', 'Nimri Colony']
+115UP_DTC#['2731', 'Nimri Colony', '2731', 'Nimri Colony']
+116BDOWN_DTC
+116BUP_DTC
+116DOWN_DTC#['temp_4336', 'Jahangir Puri Metro Station', 'temp_4336', 'Jahangir Puri Metro Station']
+116UP_DTC#['245', 'Jahangir Puri Metro Station', '245', 'Jahangir Puri Metro Station']
+118EXTDOWN_DTC
+118EXTUP_DTC
+119DOWN_DTC
+119UP_DTC
+120BDOWN_DTC#['961', 'LNJP Hospital', '961', 'LNJP Hospital']
+120BUP_DTC#['1034', 'Vivekanand Marg / Minto Road', '1034', 'Vivekanand Marg / Minto Road']#['2917', 'Model Town II', '2917', 'Model Town II']
+120DOWN_DTC
+120UP_DTC#['2917', 'Model Town II', '2917', 'Model Town II']
+124DOWN_DTC
+124UP_DTC
+125DOWN_DTC
+125UP_DTC
+127DOWN_DTC
+127UP_DTC
+128DOWN_DTC
+128UP_DTC
+130DOWN_DTC#['1920', 'Sultan Pur Crossing / Poothkhurd', '1920', 'Sultan Pur Crossing / Poothkhurd']#['1922', 'Barwala Village', 'temp_4756', 'Barwala Village']#['2696', 'Rohini Sec 16 (Maharaja Aggarsen Dharam Sthal)', '2696', 'Rohini Sec 16 (Maharaja Aggarsen Dharam Sthal)']
+130UP_DTC#['3435', 'Rohini Sec 16 (Maharaja Aggarsen Dharam Sthal)', '2696', 'Rohini Sec 16 (Maharaja Aggarsen Dharam Sthal)']#['temp_7357', 'Barwala Village', 'temp_4756', 'Barwala Village']
+131DOWN_DTC#['0', 'Narela Terminal', '0', 'Narela Terminal']
+131UP_DTC#['temp_8056', 'Sec A 5 Crossing Narela', '1592', 'Sec A 5 Crossing Narela']
+133DOWN_DTC
+133UP_DTC#['temp_4909', 'Sultan Pur Crossing / Poothkhurd', 'temp_4909', 'Sultan Pur Crossing / Poothkhurd']
+135DOWN_DTC#['temp_4533', 'ITO', '134', 'ITO']
+135UP_DTC#['2917', 'Model Town II', '2917', 'Model Town II']
+136DOWN_DTC
+136UP_DTC#['temp_8056', 'Sec A 5 Crossing Narela', '1592', 'Sec A 5 Crossing Narela']
+138DOWN_DTC
+138UP_DTC
+140DOWN_DTC
+140UP_DTC
+144DOWN_DTC
+144UP_DTC
+146DOWN_DTC
+146UP_DTC#['temp_7843', 'Bakhtawar Pur Garhi', '1204', 'Bakhtawar Pur Garhi']
+148DOWN_DTC#['temp_4703', 'Guru Govind Singh University (Kashmere Gate)', '109', 'Guru Govind Singh University (Kashmere Gate)']
+148UP_DTC#['temp_4336', 'Jahangir Puri Metro Station', '245', 'Jahangir Puri Metro Station']
+149DOWN_DTC#['temp_7843', 'Bakhtawar Pur Garhi', 'temp_4920', 'Bakhtawar Pur Garhi']#['temp_4703', 'Guru Govind Singh University (Kashmere Gate)', 'temp_7381', 'Guru Govind Singh University (Kashmere Gate)']
+149UP_DTC#['temp_4336', 'Jahangir Puri Metro Station', '245', 'Jahangir Puri Metro Station']#['temp_7843', 'Bakhtawar Pur Garhi', '1204', 'Bakhtawar Pur Garhi']
+154DOWN_DTC
+154UP_DTC
+157DOWN_DTC#['2532', 'Wazir Pur JJ Colony', '2532', 'Wazir Pur JJ Colony']#['2533', 'Nimri Colony', '2533', 'Nimri Colony']
+157UP_DTC#['3419', 'Begumpur (Malviya Nagar)', '852', 'Begumpur (Malviya Nagar)']#['1866', 'Gulabi Bagh', '678', 'Gulabi Bagh']#['temp_4973', 'Nimri Colony', 'temp_4973', 'Nimri Colony']#['2732', 'Wazirpur JJ Colony', '2732', 'Wazirpur JJ Colony']
+159DOWN_DTC#['temp_4336', 'Jahangir Puri Metro Station', 'temp_4336', 'Jahangir Puri Metro Station']#['1770', 'Moti Nagar Industrial Area', '1771', 'Moti Nagar Industrial Area']
+159UP_DTC
+160DOWN_DTC#['3935', 'Telephone Exchange Karol Bagh', '1108', 'Telephone Exchange Karol Bagh']
+160UP_DTC
+162DOWN_DTC#['temp_7843', 'Bakhtawar Pur Garhi', 'temp_4920', 'Bakhtawar Pur Garhi']
+162UP_DTC
+163DOWN_DTC#['temp_4997', 'Gopal Pur Xing', 'temp_4997', 'Gopal Pur Xing']#['temp_4363', 'Gagan Cinema', 'temp_4363', 'Gagan Cinema']
+163UP_DTC
+165ADOWN_DTC#['temp_4997', 'Gopal Pur Xing', 'temp_4997', 'Gopal Pur Xing']
+165AUP_DTC
+165DOWN_DTC#['temp_4997', 'Gopal Pur Xing', 'temp_4997', 'Gopal Pur Xing']
+165UP_DTC
+166DOWN_DTC#['2525', 'Wazir Pur Industrial Area/ Ashok Vihar Crossing', 'temp_8146', 'Wazir Pur Industrial Area/ Ashok Vihar Crossing']
+166UP_DTC
+169DOWN_DTC#['temp_4761', 'DSIDC Bawana/ Dhakewala', 'temp_4761', 'DSIDC Bawana/ Dhakewala']#['temp_4336', 'Jahangir Puri Metro Station', 'temp_4336', 'Jahangir Puri Metro Station']
+169UP_DTC#['245', 'Jahangir Puri Metro Station', '245', 'Jahangir Puri Metro Station']
+171DOWN_DTC#['961', 'LNJP Hospital', '961', 'LNJP Hospital']
+171UP_DTC
+173DOWN_DTC
+173UP_DTC#['2917', 'Model Town II', '2917', 'Model Town II']#['temp_8056', 'Sec A 5 Crossing Narela', 'temp_7199', 'Sec A 5 Crossing Narela']
+174DOWN_DTC
+174STLDOWN_DTC
+174STLUP_DTC#['414', 'Karala Village', '3633', 'Karala Village']
+174UP_DTC
+175DOWN_DTC#['24', 'Libas Pur GT Road', '24', 'Libas Pur GT Road']
+175UP_DTC#['temp_4727', 'Holambi Kalan Crossing', 'temp_4727', 'Holambi Kalan Crossing']
+178DOWN_DTC#['temp_4721', 'Bdo Office', 'temp_4721', 'Bdo Office']
+178UP_DTC
+17DOWN_DTC#['928', 'Bakhtawar Pur Garhi', 'temp_4920', 'Bakhtawar Pur Garhi']
+17UP_DTC#['temp_7843', 'Bakhtawar Pur Garhi', '1204', 'Bakhtawar Pur Garhi']
+181ADOWN_DTC#['temp_4336', 'Jahangir Puri Metro Station', 'temp_4336', 'Jahangir Puri Metro Station']#['2533', 'Nimri Colony', '2533', 'Nimri Colony']
+181AUP_DTC#['temp_4973', 'Nimri Colony', 'temp_4973', 'Nimri Colony']
+181DOWN_DTC#['temp_4336', 'Jahangir Puri Metro Station', 'temp_4336', 'Jahangir Puri Metro Station']
+181UP_DTC#['3419', 'Begumpur (Malviya Nagar)', '852', 'Begumpur (Malviya Nagar)']
+182ADOWN_DTC
+182AUP_DTC#['414', 'Karala Village', '3633', 'Karala Village']
+185DOWN_DTC#['3345', 'GTB Nagar / Haqiqat Nagar', '194', 'GTB Nagar / Haqiqat Nagar']
+185UP_DTC#['3345', 'GTB Nagar / Haqiqat Nagar', '827', 'GTB Nagar / Haqiqat Nagar']
+188DOWN_DTC#['1920', 'Sultan Pur Crossing / Poothkhurd', '1920', 'Sultan Pur Crossing / Poothkhurd']#['1920', 'Sultan Pur Crossing / Poothkhurd', '1920', 'Sultan Pur Crossing / Poothkhurd']#['temp_4752', 'Prehladpur Village', 'temp_4752', 'Prehladpur Village']#['temp_4997', 'Gopal Pur Xing', 'temp_4997', 'Gopal Pur Xing']
+188UP_DTC#['temp_7357', 'Barwala Village', 'temp_4756', 'Barwala Village']#['1912', 'Bawana Depot', '1313', 'Bawana Depot']
+191DOWN_DTC#['1912', 'Bawana Depot', '1313', 'Bawana Depot']#['1920', 'Sultan Pur Crossing / Poothkhurd', '1920', 'Sultan Pur Crossing / Poothkhurd']
+191UP_DTC#['2917', 'Model Town II', '2917', 'Model Town II']#['temp_5018', 'DSIDC Office Bawana', 'temp_7999', 'DSIDC Office Bawana']#['1912', 'Bawana Depot', '1313', 'Bawana Depot']
+192DOWN_DTC
+192UP_DTC#['temp_7980', 'Sarvodhya Vidhyalay Burari', '1627', 'Sarvodhya Vidhyalay Burari']
+193DOWN_DTC
+193UP_DTC#['2917', 'Model Town II', '2917', 'Model Town II']
+194DOWN_DTC#['temp_4336', 'Jahangir Puri Metro Station', 'temp_4336', 'Jahangir Puri Metro Station']
+194UP_DTC#['245', 'Jahangir Puri Metro Station', '245', 'Jahangir Puri Metro Station']
+199DOWN_DTC
+199UP_DTC
+19ADOWN_DTC#['temp_4336', 'Jahangir Puri Metro Station', 'temp_4336', 'Jahangir Puri Metro Station']
+19AUP_DTC
+19BDOWN_DTC#['temp_4336', 'Jahangir Puri Metro Station', 'temp_4336', 'Jahangir Puri Metro Station']
+19BUP_DTC
+19DOWN_DTC
+19UP_DTC#['2721', 'Udyog Bhawan', '2323', 'Udyog Bhawan']
+205DOWN_DTC#['temp_5109', 'Zafrabad School', 'temp_5109', 'Zafrabad School']#['temp_5135', 'Seelampur Metro Station', '781', 'Seelampur Metro Station']
+205UP_DTC#['temp_5109', 'Zafrabad School', '3597', 'Zafrabad School']
+210DOWN_DTC
+210UP_DTC
+211ADOWN_DTC
+211AUP_DTC
+211BDOWN_DTC
+211BUP_DTC#['temp_8197', 'Jharkhandi', 'temp_8197', 'Jharkhandi']
+211DOWN_DTC#['1606', 'Hasanpur Village', 'temp_8200', 'Hasanpur Village']
+211UP_DTC#['temp_8197', 'Jharkhandi', 'temp_8197', 'Jharkhandi']
+212DOWN_DTC#['1750', 'Gagan Cinema', 'temp_4363', 'Gagan Cinema']
+212UP_DTC
+213ADOWN_DTC
+213AUP_DTC#['temp_5109', 'Zafrabad School', '3597', 'Zafrabad School']
+213DOWN_DTC#['1750', 'Gagan Cinema', 'temp_4363', 'Gagan Cinema']
+213UP_DTC#['56', 'Seelampur Metro Station', 'temp_5135', 'Seelampur Metro Station']#['temp_5109', 'Zafrabad School', '3597', 'Zafrabad School']
+214DOWN_DTC#['temp_4703', 'Guru Govind Singh University (Kashmere Gate)', 'temp_7381', 'Guru Govind Singh University (Kashmere Gate)']
+214UP_DTC
+218DOWN_DTC#['56', 'Seelampur Metro Station', 'temp_5135', 'Seelampur Metro Station']
+218UP_DTC#['temp_5135', 'Seelampur Metro Station', '781', 'Seelampur Metro Station']
+219STLDOWN_DTC#['1344', 'Mile Stone / Shiv Shankar Dharam Kanta', '1344', 'Mile Stone / Shiv Shankar Dharam Kanta']
+219STLUP_DTC#['1500', 'Nangloi JJ Colony Lokesh Cinema', 'temp_5204', 'Nangloi JJ Colony Lokesh Cinema']#['1903', 'Mile Stone / Shiv Shankar Dharam Kanta', '1903', 'Mile Stone / Shiv Shankar Dharam Kanta']
+227ADOWN_DTC
+227AUP_DTC#['temp_8223', 'SBS Colony Karawal Nagar Pusta Road Gali 4', 'temp_5221', 'SBS Colony Karawal Nagar Pusta Road Gali 4']
+234ADOWN_DTC#['3111', 'DCM Chemical', '3111', 'DCM Chemical']
+234AUP_DTC#['1859', 'DCM Chemical', '1859', 'DCM Chemical']
+234DOWN_DTC#['3111', 'DCM Chemical', '3111', 'DCM Chemical']
+234UP_DTC#['1859', 'DCM Chemical', '1859', 'DCM Chemical']
+235DOWN_DTC#['2917', 'Model Town II', '2917', 'Model Town II']#['2525', 'Wazir Pur Industrial Area/ Ashok Vihar Crossing', 'temp_8146', 'Wazir Pur Industrial Area/ Ashok Vihar Crossing']
+235UP_DTC
+236DOWN_DTC
+236EXTDOWN_DTC#['1344', 'Mile Stone / Shiv Shankar Dharam Kanta', '1344', 'Mile Stone / Shiv Shankar Dharam Kanta']
+236EXTUP_DTC#['4250', 'Nangloi', '1372', 'Nangloi']
+236UP_DTC
+246DOWN_DTC
+246UP_DTC
+247DOWN_DTC
+247UP_DTC#['414', 'Karala Village', '3633', 'Karala Village']
+253DOWN_DTC
+253UP_DTC
+254DOWN_DTC#['temp_4997', 'Gopal Pur Xing', 'temp_4997', 'Gopal Pur Xing']#['1887', 'C 4 Yamuna Vihar', '1887', 'C 4 Yamuna Vihar']
+254UP_DTC#['4250', 'Nangloi', '1372', 'Nangloi']#['temp_5204', 'Nangloi JJ Colony Lokesh Cinema', 'temp_5204', 'Nangloi JJ Colony Lokesh Cinema']
+258DOWN_DTC#['4098', 'Gurudwara Nanak Sar', '4098', 'Gurudwara Nanak Sar']
+258SPLDOWN_DTC#['206', 'Pusta No 2 Sonia Vihar', '4096', 'Pusta No 2 Sonia Vihar']#['4098', 'Gurudwara Nanak Sar', 'temp_8129', 'Gurudwara Nanak Sar']
+258SPLUP_DTC#['206', 'Pusta No 2 Sonia Vihar', '4096', 'Pusta No 2 Sonia Vihar']
+258UP_DTC#['819', 'Exchange Store / Civil Lines Metro Station', '819', 'Exchange Store / Civil Lines Metro Station']#['204', 'Gurudwara Nanak Sar', '204', 'Gurudwara Nanak Sar']
+259DOWN_DTC
+259UP_DTC
+261DOWN_DTC#['1750', 'Gagan Cinema', 'temp_4363', 'Gagan Cinema']#['447', 'Nizamuddin Road Bridge', '447', 'Nizamuddin Road Bridge']
+261UP_DTC
+26DOWN_DTC
+26UP_DTC
+271DOWN_DTC
+271UP_DTC
+273DOWN_DTC#['961', 'LNJP Hospital', '961', 'LNJP Hospital']
+273UP_DTC
+274DOWN_DTC#['2980', 'Supreme Court', '2980', 'Supreme Court']
+274UP_DTC#['temp_7174', 'Sunder Nagar', 'temp_7174', 'Sunder Nagar']#['temp_5071', 'Nizamuddin Extension', '1788', 'Nizamuddin Extension']#['temp_5701', 'Mata Mandir New Friends Colony', 'temp_5701', 'Mata Mandir New Friends Colony']
+306DOWN_DTC
+306UP_DTC
+307ADOWN_DTC#['1837', 'Kalyan Puri Terminal', '1837', 'Kalyan Puri Terminal']
+307AUP_DTC#['1129', 'Kalyan Puri Terminal', 'temp_8309', 'Kalyan Puri Terminal']
+307DOWN_DTC
+307UP_DTC
+309DOWN_DTC#['3066', 'ITO', '134', 'ITO']
+309UP_DTC
+310DOWN_DTC
+310UP_DTC#['temp_8321', 'Balmiki Mandir Marg', 'temp_8321', 'Balmiki Mandir Marg']
+313DOWN_DTC
+313UP_DTC#['65', 'Ram Prastha Temple', 'temp_4985', 'Ram Prastha Temple']#['2993', 'Shadipur Colony', '2993', 'Shadipur Colony']
+319ADOWN_DTC
+319AUP_DTC
+319DOWN_DTC
+319UP_DTC#['temp_8197', 'Jharkhandi', 'temp_8197', 'Jharkhandi']
+323DOWN_DTC#['1719', 'Moti Bagh Gurudawara Nanakpura', '1719', 'Moti Bagh Gurudawara Nanakpura']
+323UP_DTC
+333DOWN_DTC#['304', 'GTB Nagar / Haqiqat Nagar', '827', 'GTB Nagar / Haqiqat Nagar']
+333UP_DTC#['3345', 'GTB Nagar / Haqiqat Nagar', '194', 'GTB Nagar / Haqiqat Nagar']
+335DOWN_DTC#['temp_4494', 'Delhi Secretariat', '133', 'Delhi Secretariat']#['temp_5380', 'Prithvi Raj Road Crossing', '1026', 'Prithvi Raj Road Crossing']
+335UP_DTC#['1114', 'Delhi Secretariat', 'temp_4494', 'Delhi Secretariat']#['temp_5109', 'Zafrabad School', 'temp_5109', 'Zafrabad School']
+336DOWN_DTC#['temp_4494', 'Delhi Secretariat', '133', 'Delhi Secretariat']
+336UP_DTC
+33ADOWN_DTC#['1886', 'Yamuna Vihar Brij Puri', '1886', 'Yamuna Vihar Brij Puri']
+33AUP_DTC#['1750', 'Gagan Cinema', '1177', 'Gagan Cinema']
+33CDOWN_DTC#['temp_4427', 'Jagatpuri F-Block', '123', 'Jagatpuri F-Block']
+33CUP_DTC
+33DOWN_DTC#['temp_7864', 'durga puri chowk', 'temp_7864', 'durga puri chowk']#['temp_5113', 'Shiv Mandir', 'temp_5427', 'Shiv Mandir']#['806', 'Yamuna Vihar Brijpuri', '806', 'Yamuna Vihar Brijpuri']
+33UP_DTC#['temp_4355', 'C 4 Yamuna Vihar', 'temp_4355', 'C 4 Yamuna Vihar']#['1177', 'Gagan Cinema', '1177', 'Gagan Cinema']
+340DOWN_DTC#['temp_4494', 'Delhi Secretariat', '133', 'Delhi Secretariat']
+340UP_DTC
+341DOWN_DTC#['temp_4336', 'Jahangir Puri Metro Station', 'temp_4336', 'Jahangir Puri Metro Station']
+341UP_DTC#['245', 'Jahangir Puri Metro Station', '245', 'Jahangir Puri Metro Station']
+347ADOWN_DTC
+347AUP_DTC
+347DOWN_DTC
+347UP_DTC
+348DOWN_DTC#['temp_5480', 'Vinod Nagar', 'temp_8368', 'Vinod Nagar']
+348UP_DTC
+349ADOWN_DTC#['temp_7323', 'Mother Dairy', '1847', 'Mother Dairy']#['temp_4533', 'ITO', '134', 'ITO']
+349AUP_DTC#['temp_5480', 'Vinod Nagar', 'temp_8368', 'Vinod Nagar']
+349DOWN_DTC#['temp_7323', 'Mother Dairy', '1847', 'Mother Dairy']
+349UP_DTC
+34ADOWN_DTC#['2483', 'Ambedkar Nagar Depot', 'temp_4440', 'Ambedkar Nagar Depot']
+34AUP_DTC#['173', 'C-1 Janak Puri', '174', 'C-1 Janak Puri']#['335', 'Sarita Vihar', 'temp_5654', 'Sarita Vihar']#['2558', 'Timarpur', '199', 'Timarpur']
+34DOWN_DTC#['2483', 'Ambedkar Nagar Depot', 'temp_4440', 'Ambedkar Nagar Depot']
+34UP_DTC#['335', 'Sarita Vihar', 'temp_5654', 'Sarita Vihar']
+355DOWN_DTC#['447', 'Nizamuddin Road Bridge', 'temp_5439', 'Nizamuddin Road Bridge']
+355UP_DTC#['447', 'Nizamuddin Road Bridge', 'temp_5439', 'Nizamuddin Road Bridge']#['temp_5439', 'Nizamuddin Road Bridge', 'temp_5439', 'Nizamuddin Road Bridge']
+374DOWN_DTC#['temp_7175', 'Sunder Nagar', 'temp_7175', 'Sunder Nagar']#['1516', 'Nehru Place', '1702', 'Nehru Place']#['1702', 'Nehru Place', 'temp_5652', 'Nehru Place']
+374UP_DTC#['1516', 'Nehru Place', '1702', 'Nehru Place']#['342', 'Pant Nagar', '342', 'Pant Nagar']#['temp_5136', 'Welcome Metro Station', 'temp_5136', 'Welcome Metro Station']
+375DOWN_DTC#['65', 'Ram Prastha Temple', 'temp_4985', 'Ram Prastha Temple']
+375UP_DTC#['1516', 'Nehru Place', '1702', 'Nehru Place']
+378DOWN_DTC
+378UP_DTC
+390DOWN_DTC
+390UP_DTC
+391DOWN_DTC
+391UP_DTC
+392BDOWN_DTC#['1217', 'APS Colony', 'temp_5538', 'APS Colony']
+392BUP_DTC
+392DOWN_DTC
+392UP_DTC
+398DOWN_DTC
+398UP_DTC
+39ADOWN_DTC#['771', 'Ram Prastha Crossing', '66', 'Ram Prastha Crossing']
+39AUP_DTC#['683', 'Shastri Nagar Shiv Mandir', '683', 'Shastri Nagar Shiv Mandir']
+39DOWN_DTC#['2333', 'Ramleela Ground Geeta Colony', '4205', 'Ramleela Ground Geeta Colony']
+39UP_DTC
+400DOWN_DTC
+400UP_DTC#['1792', 'Mata Mandir New Friends Colony', 'temp_5701', 'Mata Mandir New Friends Colony']
+402DOWN_DTC
+402UP_DTC#['temp_7174', 'Sunder Nagar', 'temp_7174', 'Sunder Nagar']#['temp_5071', 'Nizamuddin Extension', '1788', 'Nizamuddin Extension']#['temp_5701', 'Mata Mandir New Friends Colony', 'temp_5701', 'Mata Mandir New Friends Colony']
+403DOWN_DTC
+403UP_DTC#['temp_7174', 'Sunder Nagar', 'temp_7174', 'Sunder Nagar']#['temp_5071', 'Nizamuddin Extension', '1788', 'Nizamuddin Extension']#['temp_5701', 'Mata Mandir New Friends Colony', 'temp_5701', 'Mata Mandir New Friends Colony']
+405ADOWN_DTC
+405AUP_DTC#['temp_7174', 'Sunder Nagar', 'temp_7174', 'Sunder Nagar']#['temp_5071', 'Nizamuddin Extension', '1788', 'Nizamuddin Extension']
+405DOWN_DTC
+405UP_DTC#['temp_7174', 'Sunder Nagar', 'temp_7174', 'Sunder Nagar']#['temp_5071', 'Nizamuddin Extension', '1788', 'Nizamuddin Extension']
+408DOWN_DTC#['2520', 'Moti Nagar Market', '1532', 'Moti Nagar Market']
+408UP_DTC#['3983', 'Raghubir Nagar Gurudwara A Block', '3983', 'Raghubir Nagar Gurudwara A Block']#['2520', 'Moti Nagar Market', '1532', 'Moti Nagar Market']
+410DOWN_DTC#['2520', 'Moti Nagar Market', '1532', 'Moti Nagar Market']
+410UP_DTC#['2520', 'Moti Nagar Market', '1532', 'Moti Nagar Market']
+411DOWN_DTC
+411UP_DTC#['temp_7174', 'Sunder Nagar', 'temp_7174', 'Sunder Nagar']#['temp_5071', 'Nizamuddin Extension', '1788', 'Nizamuddin Extension']
+413DOWN_DTC#['temp_5679', 'Geetanjali Enclave', '3416', 'Geetanjali Enclave']
+413UP_DTC#['temp_5744', 'PNB Geetanjali', 'temp_5680', 'PNB Geetanjali']
+419DOWN_DTC#['1093', 'Kaka Nagar', '1093', 'Kaka Nagar']
+419UP_DTC#['temp_7174', 'Sunder Nagar', 'temp_7174', 'Sunder Nagar']
+423DOWN_DTC#['1093', 'Kaka Nagar', '1093', 'Kaka Nagar']
+423UP_DTC#['temp_7174', 'Sunder Nagar', 'temp_7174', 'Sunder Nagar']
+425DOWN_DTC#['1071', 'DDA Flats Kalka Ji', '1073', 'DDA Flats Kalka Ji']#['1093', 'Kaka Nagar', '1093', 'Kaka Nagar']
+425UP_DTC#['temp_7174', 'Sunder Nagar', 'temp_7174', 'Sunder Nagar']#['1516', 'Nehru Place', '1702', 'Nehru Place']
+427ADOWN_DTC#['173', 'C-1 Janak Puri', 'temp_4439', 'C-1 Janak Puri']
+427AUP_DTC#['temp_4439', 'C-1 Janak Puri', '1479', 'C-1 Janak Puri']
+427DOWN_DTC
+427UP_DTC
+429DOWN_DTC#['1072', 'DDA Market kalka Ji', '1072', 'DDA Market kalka Ji']#['1521', 'Govindpuri Extn Gali No. 16', '1521', 'Govindpuri Extn Gali No. 16']
+429UP_DTC#['temp_7174', 'Sunder Nagar', 'temp_7174', 'Sunder Nagar']#['temp_5071', 'Nizamuddin Extension', '1788', 'Nizamuddin Extension']
+433ADOWN_DTC
+433AUP_DTC#['468', 'Kalkaji Mandir (MaaAnandmayeeMarg)', '468', 'Kalkaji Mandir (MaaAnandmayeeMarg)']
+433DOWN_DTC
+433UP_DTC
+440ADOWN_DTC#['1516', 'Nehru Place', '1702', 'Nehru Place']
+440AUP_DTC#['1516', 'Nehru Place', '1702', 'Nehru Place']
+440DOWN_DTC
+440UP_DTC#['331', 'Lodhi Colony', '2426', 'Lodhi Colony']
+442DOWN_DTC
+442UP_DTC
+443ADOWN_DTC#['1297', 'Shakarpur', '130', 'Shakarpur']
+443AUP_DTC
+443DOWN_DTC#['3514', 'Kalindi Kunj', '310', 'Kalindi Kunj']
+443UP_DTC#['2558', 'Timarpur', '199', 'Timarpur']#['temp_5654', 'Sarita Vihar', 'temp_5654', 'Sarita Vihar']
+445DOWN_DTC#['4229', 'C R Park Market 1', '4216', 'C R Park Market 1']#['1516', 'Nehru Place', '1702', 'Nehru Place']#['1093', 'Kaka Nagar', '1093', 'Kaka Nagar']
+445UP_DTC#['temp_7174', 'Sunder Nagar', 'temp_7174', 'Sunder Nagar']#['4229', 'C R Park Market 1', '4216', 'C R Park Market 1']
+447DOWN_DTC
+447UP_DTC#['2570', 'Gopal Pur / Jagat Pur Crossing', '2570', 'Gopal Pur / Jagat Pur Crossing']#['temp_7174', 'Sunder Nagar', 'temp_7174', 'Sunder Nagar']#['temp_5071', 'Nizamuddin Extension', '1788', 'Nizamuddin Extension']#['1516', 'Nehru Place', '1702', 'Nehru Place']#['1702', 'Nehru Place', 'temp_5652', 'Nehru Place']
+448BDOWN_DTC
+448BUP_DTC
+448DOWN_DTC
+448UP_DTC#['temp_5744', 'PNB Geetanjali', 'temp_5680', 'PNB Geetanjali']
+450DOWN_DTC#['3383', 'Lajpat Nagar Ring Road', '3383', 'Lajpat Nagar Ring Road']
+450UP_DTC
+460DOWN_DTC
+460UP_DTC#['temp_5712', 'Power House', 'temp_4456', 'Power House']
+463DOWN_DTC#['1521', 'Govindpuri Extn Gali No. 16', '1521', 'Govindpuri Extn Gali No. 16']
+463UP_DTC#['3704', 'Lado Sarai Crossing (Aurobindo Marg)', '3704', 'Lado Sarai Crossing (Aurobindo Marg)']
+469DOWN_DTC#['1521', 'Govindpuri Extn Gali No. 16', '1521', 'Govindpuri Extn Gali No. 16']
+469UP_DTC#['67', 'Anand Vihar ISBT Main Road', '67', 'Anand Vihar ISBT Main Road']
+473ADOWN_DTC#['temp_5282', 'Ram Prastha Crossing', '66', 'Ram Prastha Crossing']
+473AUP_DTC
+473DOWN_DTC
+473UP_DTC#['temp_5712', 'Power House', 'temp_4456', 'Power House']
+479DOWN_DTC
+479UP_DTC
+47ADOWN_DTC#['2993', 'Shadipur Colony', '2993', 'Shadipur Colony']
+47AUP_DTC
+490DOWN_DTC
+490UP_DTC#['4229', 'C R Park Market 1', '4216', 'C R Park Market 1']
+492DOWN_DTC
+492UP_DTC
+493DOWN_DTC#['2558', 'Timarpur', '199', 'Timarpur']
+493UP_DTC#['2558', 'Timarpur', '199', 'Timarpur']
+500DOWN_DTC
+500UP_DTC#['temp_5744', 'PNB Geetanjali', 'temp_5680', 'PNB Geetanjali']
+501DOWN_DTC
+501UP_DTC
+502DOWN_DTC
+502UP_DTC#['1025', 'Prithvi Raj Road', '4257', 'Prithvi Raj Road']
+503DOWN_DTC
+503UP_DTC#['1025', 'Prithvi Raj Road', '4257', 'Prithvi Raj Road']
+505DOWN_DTC#['1025', 'Prithvi Raj Road', '4257', 'Prithvi Raj Road']
+505UP_DTC
+506DOWN_DTC
+506STLDOWN_DTC
+506STLUP_DTC#['temp_8560', 'Bhati Kalan More', 'temp_8561', 'Bhati Kalan More']
+506UP_DTC#['temp_8560', 'Bhati Kalan More', 'temp_8561', 'Bhati Kalan More']
+507DOWN_DTC#['849', 'IIT Gate', '3741', 'IIT Gate']#['2404', 'Munirka Family Planning', '2406', 'Munirka Family Planning']
+507UP_DTC#['temp_5701', 'Mata Mandir New Friends Colony', 'temp_5701', 'Mata Mandir New Friends Colony']
+511ADOWN_DTC#['1052', 'Satya Niketan / Gurudwara Moti Bagh', '1052', 'Satya Niketan / Gurudwara Moti Bagh']#['1516', 'Nehru Place', '1702', 'Nehru Place']
+511AUP_DTC#['2375', 'R K Puram Sec-4', '2203', 'R K Puram Sec-4']
+511DOWN_DTC#['4178', 'Moti Bagh 1', '4178', 'Moti Bagh 1']
+511UP_DTC#['1071', 'DDA Flats Kalka Ji', '1073', 'DDA Flats Kalka Ji']
+512DOWN_DTC
+512UP_DTC#['temp_5744', 'PNB Geetanjali', 'temp_5680', 'PNB Geetanjali']
+516DOWN_DTC
+516UP_DTC
+517DOWN_DTC
+517UP_DTC
+519DOWN_DTC
+519UP_DTC
+520DOWN_DTC
+520UP_DTC
+521DOWN_DTC#['4144', 'Defence Colony', '4144', 'Defence Colony']
+521UP_DTC#['1770', 'Moti Nagar Industrial Area', '1771', 'Moti Nagar Industrial Area']
+522ADOWN_DTC#['2993', 'Shadipur Colony', '2993', 'Shadipur Colony']
+522AUP_DTC#['temp_5744', 'PNB Geetanjali', 'temp_5680', 'PNB Geetanjali']
+522DOWN_DTC#['3075', 'Inder Puri JJ Colony', 'temp_8334', 'Inder Puri JJ Colony']
+522SPLDOWN_DTC
+522SPLUP_DTC#['331', 'Lodhi Colony', '2426', 'Lodhi Colony']
+522UP_DTC
+523DOWN_DTC
+523UP_DTC#['4178', 'Moti Bagh 1', '4178', 'Moti Bagh 1']
+525DOWN_DTC
+525STLDOWN_DTC#['173', 'C-1 Janak Puri', '174', 'C-1 Janak Puri']
+525STLUP_DTC#['174', 'C-1 Janak Puri', '1479', 'C-1 Janak Puri']
+525UP_DTC#['temp_5815', 'Aya Nagar', 'temp_5871', 'Aya Nagar']
+534ADOWN_DTC#['3692', 'ISIC Hospital (Verma farm)', '3692', 'ISIC Hospital (Verma farm)']#['1516', 'Nehru Place', '1702', 'Nehru Place']
+534AUP_DTC#['67', 'Anand Vihar ISBT Main Road', '67', 'Anand Vihar ISBT Main Road']#['2504', 'ISIC Hospital (Verma farm)', '2504', 'ISIC Hospital (Verma farm)']
+534CDOWN_DTC#['temp_9275', 'Anand Vihar ISBT Main Road', 'temp_4376', 'Anand Vihar ISBT Main Road']
+534CUP_DTC
+534DOWN_DTC#['1516', 'Nehru Place', '1702', 'Nehru Place']
+534UP_DTC#['67', 'Anand Vihar ISBT Main Road', '67', 'Anand Vihar ISBT Main Road']
+536DOWN_DTC
+536UP_DTC#['4212', 'AB Block Sarojini Nagar', '1811', 'AB Block Sarojini Nagar']
+539ADOWN_DTC#['3692', 'ISIC Hospital (Verma farm)', '3692', 'ISIC Hospital (Verma farm)']
+539AUP_DTC
+539DOWN_DTC
+539KDOWN_DTC
+539KUP_DTC
+539UP_DTC#['2497', 'Vasant Kunj Sec-A ILBS', 'temp_8636', 'Vasant Kunj Sec-A ILBS']#['temp_8641', 'Mahipal Pur Extension', 'temp_8641', 'Mahipal Pur Extension']#['2028', 'Chhawla Village', '2028', 'Chhawla Village']
+540DOWN_DTC
+540UP_DTC
+542DOWN_DTC#['1406', 'South Extension', '1407', 'South Extension']
+542UP_DTC#['65', 'Ram Prastha Temple', 'temp_4985', 'Ram Prastha Temple']
+543ADOWN_DTC#['1406', 'South Extension', '1407', 'South Extension']
+543AUP_DTC#['1217', 'APS Colony', 'temp_5538', 'APS Colony']
+543DOWN_DTC#['1406', 'South Extension', '1407', 'South Extension']
+543UP_DTC
+544DOWN_DTC
+544UP_DTC
+548DOWN_DTC
+548UP_DTC
+567ADOWN_DTC#['1425', 'Peera Garhi Chowk', '1379', 'Peera Garhi Chowk']#['1516', 'Nehru Place', '1702', 'Nehru Place']#['1702', 'Nehru Place', 'temp_5652', 'Nehru Place']
+567AUP_DTC
+567DOWN_DTC#['1378', 'Peera Garhi Metro Station', '1378', 'Peera Garhi Metro Station']
+567UP_DTC#['1709', 'South Extension', '1407', 'South Extension']
+568ADOWN_DTC
+568AUP_DTC
+568DOWN_DTC
+568UP_DTC
+569DOWN_DTC
+569EXTDOWN_DTC#['1427', 'Multan Nagar', '1490', 'Multan Nagar']
+569EXTUP_DTC#['1427', 'Multan Nagar', '1490', 'Multan Nagar']
+569UP_DTC
+578ADOWN_DTC
+578AUP_DTC
+578DOWN_DTC#['2507', 'Mahipal Pur Village', 'temp_6889', 'Mahipal Pur Village']
+578UP_DTC
+580DOWN_DTC#['330', 'Lodhi Colony 18-Block', '330', 'Lodhi Colony 18-Block']
+580UP_DTC#['331', 'Lodhi Colony', '3323', 'Lodhi Colony']
+588DOWN_DTC#['1819', 'Dholi Piao', 'temp_6093', 'Dholi Piao']
+588UP_DTC
+604DOWN_DTC
+604UP_DTC
+605DOWN_DTC#['temp_5932', 'Vasant Kunj Sec-C-8', 'temp_6357', 'Vasant Kunj Sec-C-8']
+605UP_DTC#['temp_5380', 'Prithvi Raj Road Crossing', '1026', 'Prithvi Raj Road Crossing']#['2504', 'ISIC Hospital (Verma farm)', '2504', 'ISIC Hospital (Verma farm)']
+610ADOWN_DTC#['2201', 'R K Puram Sec-3', '2202', 'R K Puram Sec-3']
+610AUP_DTC#['1110', 'Balmiki Mandir Marg', 'temp_8321', 'Balmiki Mandir Marg']
+610DOWN_DTC
+610UP_DTC#['2431', 'Dev Nagar / Khalsa College', '2431', 'Dev Nagar / Khalsa College']#['temp_8321', 'Balmiki Mandir Marg', 'temp_8321', 'Balmiki Mandir Marg']
+611ADOWN_DTC
+611AUP_DTC#['2374', 'RK Puram Sec-9', 'temp_6177', 'RK Puram Sec-9']
+611CDOWN_DTC
+611CUP_DTC
+611DOWN_DTC#['1052', 'Satya Niketan / Gurudwara Moti Bagh', '1052', 'Satya Niketan / Gurudwara Moti Bagh']#['1406', 'South Extension', '1407', 'South Extension']
+611UP_DTC
+615DOWN_DTC
+615UP_DTC
+620DOWN_DTC
+620UP_DTC
+621DOWN_DTC
+621UP_DTC#['temp_5380', 'Prithvi Raj Road Crossing', '1026', 'Prithvi Raj Road Crossing']
+623ADOWN_DTC#['2628', 'Africa Avenue', '2628', 'Africa Avenue']#['1114', 'Delhi Secretariat', 'temp_4494', 'Delhi Secretariat']
+623AUP_DTC#['temp_4494', 'Delhi Secretariat', 'temp_4494', 'Delhi Secretariat']#['2824', 'Africa Avenue', '2824', 'Africa Avenue']
+623BDOWN_DTC#['temp_5932', 'Vasant Kunj Sec-C-8', 'temp_6357', 'Vasant Kunj Sec-C-8']#['2628', 'Africa Avenue', '2628', 'Africa Avenue']
+623BUP_DTC#['temp_4494', 'Delhi Secretariat', '133', 'Delhi Secretariat']#['2824', 'Africa Avenue', '2824', 'Africa Avenue']#['2504', 'ISIC Hospital (Verma farm)', '2504', 'ISIC Hospital (Verma farm)']
+623DOWN_DTC#['2628', 'Africa Avenue', '2628', 'Africa Avenue']
+623UP_DTC#['temp_8197', 'Jharkhandi', 'temp_8197', 'Jharkhandi']#['2824', 'Africa Avenue', '2824', 'Africa Avenue']
+624ADOWN_DTC#['temp_7323', 'Mother Dairy', '1847', 'Mother Dairy']#['133', 'Delhi Secretariat', '133', 'Delhi Secretariat']
+624AUP_DTC
+631DOWN_DTC#['1044', 'Naraina Vihar', '1044', 'Naraina Vihar']#['1044', 'Naraina Vihar', '1044', 'Naraina Vihar']#['1052', 'Satya Niketan / Gurudwara Moti Bagh', '1052', 'Satya Niketan / Gurudwara Moti Bagh']
+631UP_DTC#['3356', 'Shalimar Bagh A Block', '3356', 'Shalimar Bagh A Block']#['3356', 'Shalimar Bagh A Block', '3356', 'Shalimar Bagh A Block']#['3356', 'Shalimar Bagh A Block', '3356', 'Shalimar Bagh A Block']#['3356', 'Shalimar Bagh A Block', '3356', 'Shalimar Bagh A Block']#['3356', 'Shalimar Bagh A Block', '3356', 'Shalimar Bagh A Block']
+680DOWN_DTC
+680UP_DTC#['2201', 'R K Puram Sec-3', '2202', 'R K Puram Sec-3']#['173', 'C-1 Janak Puri', '174', 'C-1 Janak Puri']
+701DOWN_DTC#['temp_6297', 'SHIV RAM PARK', 'temp_6297', 'SHIV RAM PARK']
+701UP_DTC#['973', 'Karala Crossing', '1235', 'Karala Crossing']#['temp_6297', 'SHIV RAM PARK', 'temp_6297', 'SHIV RAM PARK']
+708DOWN_DTC#['temp_6297', 'SHIV RAM PARK', 'temp_6297', 'SHIV RAM PARK']
+708UP_DTC#['temp_4733', 'Narela Terminal', 'temp_4733', 'Narela Terminal']#['1344', 'Mile Stone / Shiv Shankar Dharam Kanta', '1344', 'Mile Stone / Shiv Shankar Dharam Kanta']#['1500', 'Nangloi JJ Colony Lokesh Cinema', '1500', 'Nangloi JJ Colony Lokesh Cinema']#['temp_6297', 'SHIV RAM PARK', 'temp_6297', 'SHIV RAM PARK']
+711ADOWN_DTC
+711AUP_DTC#['1052', 'Satya Niketan / Gurudwara Moti Bagh', '1052', 'Satya Niketan / Gurudwara Moti Bagh']#['1406', 'South Extension', '1407', 'South Extension']
+711DOWN_DTC
+711UP_DTC
+715DOWN_DTC
+715UP_DTC#['3692', 'ISIC Hospital (Verma farm)', '3692', 'ISIC Hospital (Verma farm)']#['3695', 'Vasant Kunj sec-B1', '2500', 'Vasant Kunj sec-B1']#['temp_8636', 'Vasant Kunj Sec-A ILBS', '3698', 'Vasant Kunj Sec-A ILBS']
+717ADOWN_DTC#['3692', 'ISIC Hospital (Verma farm)', '3692', 'ISIC Hospital (Verma farm)']
+717AUP_DTC#['2483', 'Ambedkar Nagar Depot', 'temp_4440', 'Ambedkar Nagar Depot']
+717BDOWN_DTC#['3692', 'ISIC Hospital (Verma farm)', '3692', 'ISIC Hospital (Verma farm)']
+717BUP_DTC#['2483', 'Ambedkar Nagar Depot', 'temp_4440', 'Ambedkar Nagar Depot']
+717DOWN_DTC#['3692', 'ISIC Hospital (Verma farm)', '3692', 'ISIC Hospital (Verma farm)']#['3698', 'Vasant Kunj Sec-A ILBS', 'temp_8636', 'Vasant Kunj Sec-A ILBS']#['temp_5601', 'Dhaula Peer / Lado Sarai', '2491', 'Dhaula Peer / Lado Sarai']#['173', 'C-1 Janak Puri', '174', 'C-1 Janak Puri']
+717UP_DTC#['174', 'C-1 Janak Puri', '1479', 'C-1 Janak Puri']#['2504', 'ISIC Hospital (Verma farm)', '2504', 'ISIC Hospital (Verma farm)']
+718DOWN_DTC#['temp_6404', 'Puspanjali G Block', 'temp_6404', 'Puspanjali G Block']#['596', 'Dwarka Sec-21 Crossing', '3127', 'Dwarka Sec-21 Crossing']#['temp_6384', 'Dabri Xing', 'temp_6384', 'Dabri Xing']
+718UP_DTC#['temp_6384', 'Dabri Xing', 'temp_6384', 'Dabri Xing']#['2623', 'Puspanjali G Block', '2623', 'Puspanjali G Block']
+720DOWN_DTC
+720UP_DTC#['temp_8197', 'Jharkhandi', 'temp_8197', 'Jharkhandi']
+721DOWN_DTC
+721UP_DTC
+722DOWN_DTC#['2507', 'Mahipal Pur Village', 'temp_6889', 'Mahipal Pur Village']
+722UP_DTC#['1217', 'APS Colony', 'temp_5538', 'APS Colony']#['temp_6420', 'Mahipal Pur Extension', 'temp_8641', 'Mahipal Pur Extension']
+724ADOWN_DTC
+724AUP_DTC
+724CDOWN_DTC#['1072', 'DDA Market kalka Ji', '1072', 'DDA Market kalka Ji']#['4215', 'C R Park', '4230', 'C R Park']
+724CUP_DTC#['4229', 'C R Park Market 1', '4216', 'C R Park Market 1']
+724DOWN_DTC
+724EXTDOWN_DTC
+724EXTUP_DTC#['1516', 'Nehru Place', '1702', 'Nehru Place']#['1702', 'Nehru Place', 'temp_5652', 'Nehru Place']
+724UP_DTC#['1516', 'Nehru Place', '1702', 'Nehru Place']#['1702', 'Nehru Place', 'temp_5652', 'Nehru Place']
+725DOWN_DTC
+725UP_DTC
+727DOWN_DTC
+727UP_DTC
+728DOWN_DTC
+728UP_DTC
+729DOWN_DTC
+729UP_DTC#['1217', 'APS Colony', 'temp_5538', 'APS Colony']
+73DOWN_DTC
+73UP_DTC#['67', 'Anand Vihar ISBT Main Road', '67', 'Anand Vihar ISBT Main Road']#['temp_4494', 'Delhi Secretariat', '133', 'Delhi Secretariat']
+740ADOWN_DTC
+740AUP_DTC#['67', 'Anand Vihar ISBT Main Road', '67', 'Anand Vihar ISBT Main Road']#['temp_4494', 'Delhi Secretariat', '133', 'Delhi Secretariat']
+740BDOWN_DTC
+740BUP_DTC#['67', 'Anand Vihar ISBT Main Road', '67', 'Anand Vihar ISBT Main Road']#['temp_4494', 'Delhi Secretariat', '133', 'Delhi Secretariat']
+740DOWN_DTC#['899', 'A-3 Janak Puri', '707', 'A-3 Janak Puri']#['1114', 'Delhi Secretariat', 'temp_4494', 'Delhi Secretariat']
+740EXTDOWN_DTC#['1114', 'Delhi Secretariat', 'temp_4494', 'Delhi Secretariat']
+740EXTUP_DTC#['67', 'Anand Vihar ISBT Main Road', '67', 'Anand Vihar ISBT Main Road']#['temp_4494', 'Delhi Secretariat', '133', 'Delhi Secretariat']
+740UP_DTC
+741ADOWN_DTC
+741AUP_DTC#['temp_6092', 'Dholi Piao', 'temp_6093', 'Dholi Piao']#['2347', 'Meera Bagh', '2347', 'Meera Bagh']
+741DOWN_DTC
+741UP_DTC
+745DOWN_DTC#['2507', 'Mahipal Pur Village', 'temp_6889', 'Mahipal Pur Village']
+745UP_DTC
+753DOWN_DTC
+753UP_DTC#['2993', 'Shadipur Colony', '2993', 'Shadipur Colony']
+761DOWN_DTC
+761UP_DTC#['2947', 'Meera Bagh', '2347', 'Meera Bagh']#['2943', 'Peera Garhi Chowk', '1379', 'Peera Garhi Chowk']
+764DOWN_DTC#['3319', 'DPS Matiyala', '644', 'DPS Matiyala']
+764EXTDOWN_DTC
+764EXTUP_DTC#['1516', 'Nehru Place', 'temp_5652', 'Nehru Place']
+764UP_DTC
+770ADOWN_DTC
+770AUP_DTC
+770BDOWN_DTC
+770BUP_DTC
+773DOWN_DTC
+773UP_DTC
+778DOWN_DTC#['1859', 'DCM Chemical', '1859', 'DCM Chemical']
+778UP_DTC#['3111', 'DCM Chemical', '3111', 'DCM Chemical']
+781DOWN_DTC
+781UP_DTC
+78DOWN_DTC#['1859', 'DCM Chemical', '1859', 'DCM Chemical']
+78UP_DTC#['3111', 'DCM Chemical', '3111', 'DCM Chemical']
+790DOWN_DTC#['2507', 'Mahipal Pur Village', 'temp_6889', 'Mahipal Pur Village']
+790UP_DTC#['1217', 'APS Colony', 'temp_5538', 'APS Colony']#['temp_6420', 'Mahipal Pur Extension', 'temp_8641', 'Mahipal Pur Extension']
+794ADOWN_DTC
+794AUP_DTC
+794DOWN_DTC
+794UP_DTC
+801DOWN_DTC#['603', 'Dwarka Sec-8 Metro Station', '599', 'Dwarka Sec-8 Metro Station']#['1859', 'DCM Chemical', '1859', 'DCM Chemical']
+801UP_DTC#['3111', 'DCM Chemical', '3111', 'DCM Chemical']#['1478', 'C-2 Janak Puri', '175', 'C-2 Janak Puri']#['2246', 'Dwarka Sec-1 Mahalaxmi Apartment', '2246', 'Dwarka Sec-1 Mahalaxmi Apartment']#['temp_8929', 'Baghdola Village', 'temp_8929', 'Baghdola Village']
+803DOWN_DTC
+803UP_DTC#['2993', 'Shadipur Colony', '2993', 'Shadipur Colony']
+804ADOWN_DTC
+804AUP_DTC
+808DOWN_DTC
+808UP_DTC
+809DOWN_DTC#['169', 'Uttam Nagar', '905', 'Uttam Nagar']
+809UP_DTC#['169', 'Uttam Nagar', '905', 'Uttam Nagar']
+810DOWN_DTC#['1819', 'Dholi Piao', 'temp_6093', 'Dholi Piao']#['2520', 'Moti Nagar Market', '1532', 'Moti Nagar Market']
+810UP_DTC#['2520', 'Moti Nagar Market', '1532', 'Moti Nagar Market']#['temp_6092', 'Dholi Piao', 'temp_6093', 'Dholi Piao']
+813DOWN_DTC
+813UP_DTC#['3111', 'DCM Chemical', '3111', 'DCM Chemical']
+816DOWN_DTC
+816UP_DTC#['3111', 'DCM Chemical', '3111', 'DCM Chemical']
+817DOWN_DTC#['temp_6092', 'Dholi Piao', 'temp_6093', 'Dholi Piao']#['1859', 'DCM Chemical', '1859', 'DCM Chemical']
+817NDOWN_DTC#['2514', 'Tagore Garden', '1538', 'Tagore Garden']
+817NUP_DTC#['3254', 'Sarai Rohilla Flyover', '2727', 'Sarai Rohilla Flyover']#['169', 'Uttam Nagar', '905', 'Uttam Nagar']
+817UP_DTC#['3111', 'DCM Chemical', '3111', 'DCM Chemical']#['temp_6092', 'Dholi Piao', 'temp_6093', 'Dholi Piao']#['169', 'Uttam Nagar', '905', 'Uttam Nagar']
+818DOWN_DTC#['1819', 'Dholi Piao', 'temp_6093', 'Dholi Piao']
+818UP_DTC#['temp_6092', 'Dholi Piao', 'temp_6093', 'Dholi Piao']#['169', 'Uttam Nagar', '905', 'Uttam Nagar']
+819DOWN_DTC#['temp_8661', 'ROSHAN PURA', 'temp_8661', 'ROSHAN PURA']
+819UP_DTC#['169', 'Uttam Nagar', '905', 'Uttam Nagar']#['temp_4721', 'Bdo Office', 'temp_4721', 'Bdo Office']
+821DOWN_DTC#['1351', 'Mitraon Village', '373', 'Mitraon Village']
+821UP_DTC#['temp_6092', 'Dholi Piao', 'temp_6093', 'Dholi Piao']#['169', 'Uttam Nagar', '905', 'Uttam Nagar']
+825ADOWN_DTC#['temp_6093', 'Dholi Piao', 'temp_6093', 'Dholi Piao']
+825AUP_DTC#['temp_6093', 'Dholi Piao', 'temp_6093', 'Dholi Piao']#['169', 'Uttam Nagar', '905', 'Uttam Nagar']
+826DOWN_DTC
+826UP_DTC#['169', 'Uttam Nagar', '905', 'Uttam Nagar']
+827DOWN_DTC#['1351', 'Mitraon Village', '373', 'Mitraon Village']#['1819', 'Dholi Piao', 'temp_6093', 'Dholi Piao']
+827UP_DTC#['169', 'Uttam Nagar', '905', 'Uttam Nagar']
+828ADOWN_DTC
+828AUP_DTC
+829DOWN_DTC#['1819', 'Dholi Piao', 'temp_6093', 'Dholi Piao']
+829UP_DTC#['temp_6092', 'Dholi Piao', 'temp_6093', 'Dholi Piao']#['169', 'Uttam Nagar', '905', 'Uttam Nagar']
+832DOWN_DTC#['3111', 'DCM Chemical', '3111', 'DCM Chemical']
+832UP_DTC#['temp_8846', 'Janakpuri C3', 'temp_8846', 'Janakpuri C3']#['1859', 'DCM Chemical', '1859', 'DCM Chemical']
+835DOWN_DTC#['1351', 'Mitraon Village', '373', 'Mitraon Village']#['1819', 'Dholi Piao', 'temp_6093', 'Dholi Piao']
+835UP_DTC#['temp_6092', 'Dholi Piao', 'temp_6093', 'Dholi Piao']#['169', 'Uttam Nagar', '905', 'Uttam Nagar']
+838DOWN_DTC
+838UP_DTC#['2993', 'Shadipur Colony', '2993', 'Shadipur Colony']
+842DOWN_DTC#['3983', 'Raghubir Nagar Gurudwara A Block', '3983', 'Raghubir Nagar Gurudwara A Block']#['2520', 'Moti Nagar Market', '1532', 'Moti Nagar Market']
+842UP_DTC#['2520', 'Moti Nagar Market', '1532', 'Moti Nagar Market']
+844DOWN_DTC#['temp_7709', 'Ujwa Village', 'temp_7709', 'Ujwa Village']#['temp_6313', 'Nazafgarh Dhansa More', 'temp_6313', 'Nazafgarh Dhansa More']
+844UP_DTC#['temp_9003', 'Jhul-Jhuli Check Post / Ghumanhera Crossing', '2172', 'Jhul-Jhuli Check Post / Ghumanhera Crossing']
+845DOWN_DTC#['temp_8661', 'ROSHAN PURA', 'temp_8661', 'ROSHAN PURA']
+845UP_DTC#['169', 'Uttam Nagar', '905', 'Uttam Nagar']
+848DOWN_DTC#['169', 'Uttam Nagar', '905', 'Uttam Nagar']
+848UP_DTC#['169', 'Uttam Nagar', '905', 'Uttam Nagar']#['temp_9019', 'Bakkargarh Border', 'temp_9019', 'Bakkargarh Border']
+853DOWN_DTC
+853UP_DTC
+857DOWN_DTC#['3983', 'Raghubir Nagar Gurudwara A Block', '3983', 'Raghubir Nagar Gurudwara A Block']#['2520', 'Moti Nagar Market', '1532', 'Moti Nagar Market']
+857UP_DTC#['67', 'Anand Vihar ISBT Main Road', '67', 'Anand Vihar ISBT Main Road']#['temp_4494', 'Delhi Secretariat', '133', 'Delhi Secretariat']#['2520', 'Moti Nagar Market', '1532', 'Moti Nagar Market']
+85DOWN_DTC
+85EXTDOWN_DTC
+85EXTUP_DTC#['67', 'Anand Vihar ISBT Main Road', '67', 'Anand Vihar ISBT Main Road']#['3300', 'Mother Dairy Crossing', '3327', 'Mother Dairy Crossing']#['temp_4494', 'Delhi Secretariat', '133', 'Delhi Secretariat']
+85UP_DTC#['67', 'Anand Vihar ISBT Main Road', '67', 'Anand Vihar ISBT Main Road']#['3300', 'Mother Dairy Crossing', '3327', 'Mother Dairy Crossing']#['temp_4494', 'Delhi Secretariat', '133', 'Delhi Secretariat']
+861ADOWN_DTC#['temp_6092', 'Dholi Piao', 'temp_6093', 'Dholi Piao']
+861AUP_DTC#['1819', 'Dholi Piao', 'temp_6093', 'Dholi Piao']
+863DOWN_DTC#['temp_8942', 'Metal Forging', 'temp_8942', 'Metal Forging']
+863UP_DTC#['2305', 'Metal Forging', '2305', 'Metal Forging']
+876DOWN_DTC#['169', 'Uttam Nagar', '905', 'Uttam Nagar']#['2520', 'Moti Nagar Market', '1532', 'Moti Nagar Market']
+876UP_DTC#['169', 'Uttam Nagar', '905', 'Uttam Nagar']
+878DOWN_DTC#['373', 'Mitraon Village', '373', 'Mitraon Village']#['169', 'Uttam Nagar', '905', 'Uttam Nagar']
+878UP_DTC#['169', 'Uttam Nagar', '905', 'Uttam Nagar']
+879ADOWN_DTC#['2948', 'Meera Bagh Apartment', '2948', 'Meera Bagh Apartment']
+879AUP_DTC#['2347', 'Meera Bagh', '2347', 'Meera Bagh']
+879BDOWN_DTC#['2948', 'Meera Bagh Apartment', '2948', 'Meera Bagh Apartment']
+879BUP_DTC#['2947', 'Meera Bagh', '2347', 'Meera Bagh']
+879DOWN_DTC#['2948', 'Meera Bagh Apartment', '2948', 'Meera Bagh Apartment']
+879UP_DTC#['2947', 'Meera Bagh', '2347', 'Meera Bagh']#['temp_6527', 'Peera Garhi Chowk', '1379', 'Peera Garhi Chowk']
+882ADOWN_DTC
+882AUP_DTC#['2347', 'Meera Bagh', '2347', 'Meera Bagh']#['2943', 'Peera Garhi Chowk', '1379', 'Peera Garhi Chowk']#['temp_8056', 'Sec A 5 Crossing Narela', '1592', 'Sec A 5 Crossing Narela']
+882DOWN_DTC#['2949', 'Keshopur Depot', '2949', 'Keshopur Depot']
+882UP_DTC#['temp_6527', 'Peera Garhi Chowk', '1379', 'Peera Garhi Chowk']
+883DOWN_DTC#['2347', 'Meera Bagh', '2347', 'Meera Bagh']#['2943', 'Peera Garhi Chowk', '1379', 'Peera Garhi Chowk']
+883UP_DTC#['2917', 'Model Town II', '2917', 'Model Town II']#['2943', 'Peera Garhi Chowk', '1379', 'Peera Garhi Chowk']
+887DOWN_DTC#['169', 'Uttam Nagar', '905', 'Uttam Nagar']
+887UP_DTC#['169', 'Uttam Nagar', '905', 'Uttam Nagar']#['154', 'Nangli Sakrawati', '657', 'Nangli Sakrawati']
+889DOWN_DTC#['1940', 'Rohini Sec 18', '1007', 'Rohini Sec 18']
+889UP_DTC#['1940', 'Rohini Sec 18', '1007', 'Rohini Sec 18']
+88DOWN_DTC
+88UP_DTC
+891DOWN_DTC
+891UP_DTC
+894DOWN_DTC#['temp_7175', 'Sunder Nagar', 'temp_7175', 'Sunder Nagar']#['temp_5071', 'Nizamuddin Extension', '1788', 'Nizamuddin Extension']#['temp_5701', 'Mata Mandir New Friends Colony', 'temp_5701', 'Mata Mandir New Friends Colony']
+894UP_DTC
+8ADOWN_DTC
+8AUP_DTC
+8DOWN_DTC#['temp_4276', 'Sarita Vihar Xing', 'temp_4276', 'Sarita Vihar Xing']#['temp_5712', 'Power House', 'temp_4456', 'Power House']
+8UP_DTC#['temp_5654', 'Sarita Vihar', 'temp_5654', 'Sarita Vihar']
+901DOWN_DTC
+901UP_DTC#['2917', 'Model Town II', '2917', 'Model Town II']
+908DOWN_DTC#['2520', 'Moti Nagar Market', '1532', 'Moti Nagar Market']
+908UP_DTC
+910ADOWN_DTC
+910AUP_DTC#['516', 'Gole Market', 'temp_4605', 'Gole Market']
+910DOWN_DTC
+910UP_DTC#['2014', 'Gole Market', 'temp_4605', 'Gole Market']
+912DOWN_DTC#['687', 'B-4 Keshav Puram', '687', 'B-4 Keshav Puram']
+912UP_DTC#['3668', 'C-4 Keshav Puram', '3668', 'C-4 Keshav Puram']#['3345', 'GTB Nagar / Haqiqat Nagar', '827', 'GTB Nagar / Haqiqat Nagar']
+915DOWN_DTC
+915UP_DTC#['1500', 'Nangloi JJ Colony Lokesh Cinema', '1500', 'Nangloi JJ Colony Lokesh Cinema']#['temp_5213', 'Mundka Xing', 'temp_5213', 'Mundka Xing']
+917DOWN_DTC#['2431', 'Dev Nagar / Khalsa College', '2431', 'Dev Nagar / Khalsa College']
+917UP_DTC
+918DOWN_DTC#['2431', 'Dev Nagar / Khalsa College', '2431', 'Dev Nagar / Khalsa College']
+918UP_DTC#['4250', 'Nangloi', '1372', 'Nangloi']
+921DOWN_DTC
+921EXTDOWN_DTC
+921EXTUP_DTC#['2917', 'Model Town II', '2917', 'Model Town II']#['689', 'Mangol Pur School (Kanjhawla Road)', '689', 'Mangol Pur School (Kanjhawla Road)']
+921UP_DTC#['2917', 'Model Town II', '2917', 'Model Town II']
+923DOWN_DTC
+923UP_DTC#['temp_6299', 'NILOTHI CROSSING', 'temp_6299', 'NILOTHI CROSSING']
+924DOWN_DTC#['1344', 'Mile Stone / Shiv Shankar Dharam Kanta', '1344', 'Mile Stone / Shiv Shankar Dharam Kanta']
+924UP_DTC#['800', 'Zakhira Flyover', '800', 'Zakhira Flyover']#['1500', 'Nangloi JJ Colony Lokesh Cinema', '1500', 'Nangloi JJ Colony Lokesh Cinema']
+926DOWN_DTC#['1344', 'Mile Stone / Shiv Shankar Dharam Kanta', '1344', 'Mile Stone / Shiv Shankar Dharam Kanta']
+926UP_DTC#['4250', 'Nangloi', '1372', 'Nangloi']
+928DOWN_DTC#['1344', 'Mile Stone / Shiv Shankar Dharam Kanta', '1344', 'Mile Stone / Shiv Shankar Dharam Kanta']
+928UP_DTC#['1903', 'Mile Stone / Shiv Shankar Dharam Kanta', '1903', 'Mile Stone / Shiv Shankar Dharam Kanta']
+929DOWN_DTC
+929UP_DTC#['800', 'Zakhira Flyover', '800', 'Zakhira Flyover']
+934DOWN_DTC#['1344', 'Mile Stone / Shiv Shankar Dharam Kanta', '1344', 'Mile Stone / Shiv Shankar Dharam Kanta']
+934UP_DTC#['1500', 'Nangloi JJ Colony Lokesh Cinema', '1500', 'Nangloi JJ Colony Lokesh Cinema']
+935DOWN_DTC
+935UP_DTC#['1500', 'Nangloi JJ Colony Lokesh Cinema', '1500', 'Nangloi JJ Colony Lokesh Cinema']
+937ADOWN_DTC
+937AUP_DTC
+938ADOWN_DTC#['1344', 'Mile Stone / Shiv Shankar Dharam Kanta', '1344', 'Mile Stone / Shiv Shankar Dharam Kanta']#['temp_6023', 'Peeragarhi Chowk', 'temp_6023', 'Peeragarhi Chowk']
+938AUP_DTC#['1500', 'Nangloi JJ Colony Lokesh Cinema', '1500', 'Nangloi JJ Colony Lokesh Cinema']
+938BDOWN_DTC#['1007', 'Rohini Sec 18', '1940', 'Rohini Sec 18']
+938BUP_DTC
+939DOWN_DTC
+939UP_DTC
+940ADOWN_DTC#['1770', 'Moti Nagar Industrial Area', '1771', 'Moti Nagar Industrial Area']
+940AUP_DTC
+940DOWN_DTC#['1770', 'Moti Nagar Industrial Area', '1771', 'Moti Nagar Industrial Area']
+940UP_DTC#['514', 'Shaheed Bhagat Singh Marg', '515', 'Shaheed Bhagat Singh Marg']
+941DOWN_DTC
+941UP_DTC
+943DOWN_DTC#['4019', 'Govt Press Kali Mandir', '4019', 'Govt Press Kali Mandir']
+943UP_DTC
+944DOWN_DTC
+944UP_DTC
+947ADOWN_DTC#['1344', 'Mile Stone / Shiv Shankar Dharam Kanta', '1344', 'Mile Stone / Shiv Shankar Dharam Kanta']#['temp_6420', 'Mahipal Pur Extension', 'temp_8641', 'Mahipal Pur Extension']#['temp_8637', 'Vasant Kunj Sec-D/3-4', '3696', 'Vasant Kunj Sec-D/3-4']#['temp_9102', 'sp school', 'temp_9102', 'sp school']
+947AUP_DTC#['temp_9102', 'sp school', 'temp_9102', 'sp school']#['2507', 'Mahipal Pur Village', 'temp_6889', 'Mahipal Pur Village']#['1500', 'Nangloi JJ Colony Lokesh Cinema', '1500', 'Nangloi JJ Colony Lokesh Cinema']
+947DOWN_DTC#['1344', 'Mile Stone / Shiv Shankar Dharam Kanta', '1344', 'Mile Stone / Shiv Shankar Dharam Kanta']#['temp_5196', 'Peera Garhi Depot', 'temp_6524', 'Peera Garhi Depot']#['temp_6889', 'Mahipal Pur Village', '2508', 'Mahipal Pur Village']
+947UP_DTC#['2507', 'Mahipal Pur Village', 'temp_6889', 'Mahipal Pur Village']#['temp_6524', 'Peera Garhi Depot', 'temp_5196', 'Peera Garhi Depot']#['1903', 'Mile Stone / Shiv Shankar Dharam Kanta', '1903', 'Mile Stone / Shiv Shankar Dharam Kanta']
+948DOWN_DTC
+948UP_DTC#['1912', 'Bawana Depot', '1313', 'Bawana Depot']#['temp_4733', 'Narela Terminal', 'temp_4733', 'Narela Terminal']
+949ADOWN_DTC#['1344', 'Mile Stone / Shiv Shankar Dharam Kanta', '1344', 'Mile Stone / Shiv Shankar Dharam Kanta']
+949AUP_DTC#['3066', 'ITO', '134', 'ITO']#['4250', 'Nangloi', '1372', 'Nangloi']
+949DOWN_DTC#['1344', 'Mile Stone / Shiv Shankar Dharam Kanta', '1344', 'Mile Stone / Shiv Shankar Dharam Kanta']#['2431', 'Dev Nagar / Khalsa College', '2431', 'Dev Nagar / Khalsa College']
+949EXTDOWN_DTC#['1344', 'Mile Stone / Shiv Shankar Dharam Kanta', '1344', 'Mile Stone / Shiv Shankar Dharam Kanta']#['447', 'Nizamuddin Road Bridge', '447', 'Nizamuddin Road Bridge']
+949EXTUP_DTC#['447', 'Nizamuddin Road Bridge', 'temp_5439', 'Nizamuddin Road Bridge']#['4250', 'Nangloi', '1372', 'Nangloi']
+949UP_DTC#['4250', 'Nangloi', '1372', 'Nangloi']
+951DOWN_DTC
+951UP_DTC
+954DOWN_DTC
+954UP_DTC
+957ADOWN_DTC
+957AUP_DTC
+957DOWN_DTC#['692', 'Rohini Sec 20/21 More', '982', 'Rohini Sec 20/21 More']#['3930', 'Rohini Sec 3/4/5/6 Xing (Vishram Chowk)', 'temp_7254', 'Rohini Sec 3/4/5/6 Xing (Vishram Chowk)']
+957UP_DTC
+962ADOWN_DTC#['temp_4875', 'Karala Village', '974', 'Karala Village']#['4112', 'E Block Mangol Puri', '4239', 'E Block Mangol Puri']
+962AUP_DTC#['2014', 'Gole Market', 'temp_4605', 'Gole Market']#['4112', 'E Block Mangol Puri', '4239', 'E Block Mangol Puri']#['414', 'Karala Village', '3633', 'Karala Village']
+962DOWN_DTC#['4239', 'E Block Mangol Puri', '4112', 'E Block Mangol Puri']
+962UP_DTC
+966BDOWN_DTC#['3774', 'Panchkuian Road', '2877', 'Panchkuian Road']#['temp_7175', 'Sunder Nagar', 'temp_7175', 'Sunder Nagar']#['temp_5071', 'Nizamuddin Extension', '1788', 'Nizamuddin Extension']
+966BUP_DTC
+966DOWN_DTC#['3774', 'Panchkuian Road', '2877', 'Panchkuian Road']#['temp_7174', 'Sunder Nagar', 'temp_7175', 'Sunder Nagar']#['temp_5071', 'Nizamuddin Extension', '1788', 'Nizamuddin Extension']
+966EXTDOWN_DTC#['3774', 'Panchkuian Road', '2877', 'Panchkuian Road']#['temp_7174', 'Sunder Nagar', 'temp_7175', 'Sunder Nagar']#['temp_5071', 'Nizamuddin Extension', '1788', 'Nizamuddin Extension']
+966EXTUP_DTC
+966UP_DTC
+970ADOWN_DTC
+970AUP_DTC#['1025', 'Prithvi Raj Road', '4257', 'Prithvi Raj Road']
+970BDOWN_DTC
+970BUP_DTC#['1025', 'Prithvi Raj Road', '4257', 'Prithvi Raj Road']
+970CDOWN_DTC
+970CUP_DTC#['1025', 'Prithvi Raj Road', '4257', 'Prithvi Raj Road']
+970DOWN_DTC
+970UP_DTC#['1025', 'Prithvi Raj Road', '4257', 'Prithvi Raj Road']
+971ADOWN_DTC
+971AUP_DTC#['2917', 'Model Town II', '2917', 'Model Town II']
+971DOWN_DTC
+971UP_DTC#['2917', 'Model Town II', '2917', 'Model Town II']
+972ADOWN_DTC#['2347', 'Meera Bagh', '2347', 'Meera Bagh']#['2943', 'Peera Garhi Chowk', '1379', 'Peera Garhi Chowk']
+972AUP_DTC#['2943', 'Peera Garhi Chowk', '1379', 'Peera Garhi Chowk']
+972BDOWN_DTC#['2939', 'Prehlad Vihar (Deep Vihar)', '2939', 'Prehlad Vihar (Deep Vihar)']
+972BUP_DTC#['1819', 'Dholi Piao', 'temp_6093', 'Dholi Piao']#['2347', 'Meera Bagh', '2347', 'Meera Bagh']
+972DOWN_DTC#['2347', 'Meera Bagh', '2347', 'Meera Bagh']#['2943', 'Peera Garhi Chowk', '1379', 'Peera Garhi Chowk']
+972UP_DTC#['2939', 'Prehlad Vihar (Deep Vihar)', '2939', 'Prehlad Vihar (Deep Vihar)']#['2943', 'Peera Garhi Chowk', '1379', 'Peera Garhi Chowk']
+975DOWN_DTC#['1770', 'Moti Nagar Industrial Area', '1771', 'Moti Nagar Industrial Area']
+975UP_DTC
+978DOWN_DTC
+978UP_DTC
+979DOWN_DTC
+979UP_DTC
+980DOWN_DTC
+980UP_DTC
+982DOWN_DTC
+982UP_DTC#['2917', 'Model Town II', '2917', 'Model Town II']
+984ADOWN_DTC
+984AUP_DTC
+988DOWN_DTC#['1912', 'Bawana Depot', '1313', 'Bawana Depot']#['1920', 'Sultan Pur Crossing / Poothkhurd', '1920', 'Sultan Pur Crossing / Poothkhurd']#['1039', 'Punjabi Bagh Club', '1039', 'Punjabi Bagh Club']#['3728', 'Faiz Road', '2708', 'Faiz Road']#['temp_8321', 'Balmiki Mandir Marg', 'temp_8321', 'Balmiki Mandir Marg']
+988UP_DTC
+990ADOWN_DTC
+990AUP_DTC
+990BDOWN_DTC
+990BUP_DTC#['2014', 'Gole Market', '516', 'Gole Market']
+990DOWN_DTC
+990EXTDOWN_DTC
+990EXTUP_DTC#['1940', 'Rohini Sec 18', '1007', 'Rohini Sec 18']
+990UP_DTC
+AIRPORTSHUTTLESERVICEDOWN_DTC
+AIRPORTSHUTTLESERVICEUP_DTC
+EXPRESS-344DOWN_DTC#['temp_5380', 'Prithvi Raj Road Crossing', '1026', 'Prithvi Raj Road Crossing']
+EXPRESS-344UP_DTC
+EXPRESS-727ADOWN_DTC
+EXPRESS-727AUP_DTC#['3319', 'DPS Matiyala', '644', 'DPS Matiyala']
+EXPRESS-85AUP_DTC#['692', 'Rohini Sec 20/21 More', '982', 'Rohini Sec 20/21 More']
+EXPRESS-91DOWN_DTC#['3774', 'Panchkuian Road', '2877', 'Panchkuian Road']
+EXPRESS-91UP_DTC
+EXPRESS-970UP_DTC#['3382', 'Prithvi Raj Road Crossing', '1026', 'Prithvi Raj Road Crossing']
+GL-23DOWN_DTC#['67', 'Anand Vihar ISBT Main Road', '67', 'Anand Vihar ISBT Main Road']
+GL-23UP_DTC#['temp_8197', 'Jharkhandi', 'temp_8197', 'Jharkhandi']
+GL-91DOWN_DTC
+GL-91UP_DTC#['4250', 'Nangloi', '1372', 'Nangloi']#['1500', 'Nangloi JJ Colony Lokesh Cinema', '1500', 'Nangloi JJ Colony Lokesh Cinema']
+OMS(+)UP_DTC#['67', 'Anand Vihar ISBT Main Road', '67', 'Anand Vihar ISBT Main Road']#['temp_4439', 'C-1 Janak Puri', '174', 'C-1 Janak Puri']#['temp_7551', 'MMTC / Adhchini Village', '1012', 'MMTC / Adhchini Village']#['1719', 'Moti Bagh Gurudawara Nanakpura', '1719', 'Moti Bagh Gurudawara Nanakpura']#['2347', 'Meera Bagh', '2347', 'Meera Bagh']#['1379', 'Peera Garhi Chowk', '1379', 'Peera Garhi Chowk']
+OMS(-)DOWN_DTC#['1750', 'Gagan Cinema', 'temp_4363', 'Gagan Cinema']#['2948', 'Meera Bagh Apartment', '2948', 'Meera Bagh Apartment']#['temp_5315', 'Moti Bagh Gurudawara Nanakpura', 'temp_5315', 'Moti Bagh Gurudawara Nanakpura']#['173', 'C-1 Janak Puri', '174', 'C-1 Janak Puri']
+RL-75DOWN_DTC
+RL-75UP_DTC#['3317', 'Dwarka Sec 13-3 Xing', '646', 'Dwarka Sec 13-3 Xing']
+RL-77ADOWN_DTC
+RL-77AUP_DTC
+RL-77BDOWN_DTC
+RL-77BUP_DTC
+RL-77DOWN_DTC
+RL-77EXTDOWN_DTC
+RL-77EXTUP_DTC
+RL-77UP_DTC
+TMS(+)UP_DTC
+TMS(-)DOWN_DTC#['temp_5285', 'Gandhi Darshan', '1853', 'Gandhi Darshan']
+WESTDELHIMUDRIKA(+)UP_DTC#['3319', 'DPS Matiyala', '644', 'DPS Matiyala']#['1819', 'Dholi Piao', 'temp_6093', 'Dholi Piao']#['2520', 'Moti Nagar Market', '1532', 'Moti Nagar Market']
